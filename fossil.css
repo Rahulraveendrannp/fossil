@@ -79,10 +79,13 @@ display: flex;
     font-weight: 700;
     font-size: 35;
 }
-.text2 h5{
-    font-size: 15;
-    font-weight: 400;
+.text1 h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17;
+    font-weight: 100;
     text-align: center;
+    margin-top: -20px;
+    line-height: 1.5;
 }
 .btn1{
     width: 150px;
